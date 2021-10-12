@@ -1,0 +1,256 @@
+.table-name{
+    color: red;
+}
+
+.table-grid,table-grid tr{
+    border: 2px solid black;
+}
+.table-grid td{
+    border: 2px solid black;
+}
+
+.table-grid{
+    width:40%;
+    height:40%;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+
+.table-grid-light{
+    width:40%;
+    height:40%;
+    border-collapse: collapse;
+    text-align:center;
+ }
+
+.table-grid-light, table-grid-light tr{
+    border: 2px solid gray;
+}
+.table-grid-light td{
+    border: 2px solid gray;
+}
+
+.plain-table-1{
+
+    width:40%;
+    height:40%;
+    border-collapse: collapse;
+    text-align:center;
+}
+
+.plain-table-1 tr{
+    border: 2px solid gray;
+}
+
+.plain-table-1 td{
+    border: 2px solid gray;
+}
+
+
+.plain-table-1 tr:nth-child(even){
+    background: lightblue;
+}
+
+
+
+.plain-table-2 {
+
+    width:40%;
+    height:40%;
+    border-collapse: collapse;
+    text-align:center;
+
+}
+
+.plain-table-2 tr{
+    border: 2px solid black;
+}
+.plain-table-2 td{
+    border: none;
+}
+
+.plain-table-3{
+    width:40%;
+    height:40%;
+    border-collapse: collapse;
+    text-align:center;
+}
+
+.plain-table-3 tr:nth-child(even){
+    background: lightblue;
+}
+.plain-table-3 tr,.plain-table-3 td{
+    border: 2px solid blue;
+}
+
+.Grid-table-1{
+    width:40%;
+    height:40%;
+    border-collapse: collapse;
+    text-align:center;
+}
+
+.Grid-table-1 thead{
+    border-bottom: 4px solid blue;
+}
+.Grid-table-1 td {
+    border: 2px solid lightblue;
+
+}
+.Grid-table-9{
+    width:40%;
+    height:40%;
+    border-collapse: collapse;
+    text-align:center;
+}
+
+.Grid-table-9 thead{
+    border-bottom: 4px solid purple;
+}
+.Grid-table-9 td{
+    border: 2px solid pink;
+}
+
+
+.Grid-table-4{
+    width:40%;
+    height:40%;
+    border-collapse: collapse;
+    text-align:center;
+}
+.Grid-table-4 tr:nth-child(even){
+    background: lightblue;
+}
+.Grid-table-4 tr{
+    border: 2px solid blue;
+}
+.Grid-table-4 td{
+    border: 2px solid blue;
+}
+.Grid-table-4 tr:first-child{
+    background: blue;
+}
+.Grid-table-5{
+    width:40%;
+    height:40%;
+    border-collapse: collapse;
+    text-align:center;
+}
+.Grid-table-5 tr:nth-child(even){
+    background: lightgreen;
+}
+.Grid-table-5 tr{
+    border: 2px solid green;}
+
+.Grid-table-5 tr:first-child{
+    background:darkgreen;
+}
+.Grid-table-5 td{
+    border: 2px solid green;
+}
+
+.Grid-table-6{
+    width:40%;
+    height:40%;
+    border-collapse: collapse;
+    text-align:center;
+}
+.Grid-table-6 tr{
+    border: 2px solid lightgrey;
+}
+.Grid-table-6 td{
+    border: 2px solid lightgrey;
+}
+.Grid-table-6 tr:nth-child(even){
+    background: lightgrey;
+}
+.Grid-table-6 tr:first-child{
+    background: gray;
+}
+
+.Grid-table-7{
+    width:40%;
+    height:40%;
+    border-collapse: collapse;
+    text-align:center;
+}
+.Grid-table-7 tr,.Grid-table-7 td{
+    border: 2px solid lightsalmon;
+}
+.Grid-table-7 tr:first-child{
+    background: orangered;
+}
+.Grid-table-7 tr:nth-child(even){
+    background: orange;
+}
+
+.Grid-table-8{
+    width:40%;
+    height:40%;
+    border-collapse: collapse;
+    text-align:center;
+}
+.Grid-table-8 tr,.Grid-table-8 td{
+    border: 2px solid red;
+}
+.Grid-table-8 tr:first-child{
+    background: darkred;
+}
+.Grid-table-8 tr:nth-child(even){
+    background: red;
+}
+
+.List-table-1{
+    width:40%;
+    height:40%;
+    border-collapse: collapse;
+    text-align:center;
+}
+.List-table-1 tr{
+    border: 2px solid black;
+}
+.List-table-1 tr:first-child{
+    background: black;
+}
+.List-table-1 td{
+    border: none;
+}
+
+.List-table-2 {
+    width:40%;
+    height:40%;
+    border-collapse: collapse;
+    text-align:center;
+}
+.List-table-2 tr{
+    border: 2px solid gray;
+}
+.List-table-2 td{
+    border: none;
+}
+.List-table-2 tr:first-child{
+    background:grey;
+}
+
+
+
+.Grid-table-colorful{
+    width:40%;
+    height:40%;
+    border-collapse: collapse;
+    text-align:center;
+}
+.Grid-table-colorful tr{
+    border: 2px solid orange;
+}
+.Grid-table-colorful td{
+    border: none;
+}
+.Grid-table-colorful tr:first-child{
+    background: yellow;
+}
+
+
+
+
